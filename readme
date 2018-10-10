@@ -1,0 +1,13 @@
+Frontend:
+Creer un projet avec vueJS.
+Creer une page avec nom utilisateur mot de pass et boutton
+Creer une page vide avec un text welcome pour l'afficher aprés l'auth.
+
+Backend:
+Creer un projet en Springboot - Security.
+Creer une base de données
+Creer un webservice Spring pour l'authentification (Rest)
+
+
+
+page html user pwd avec bootstrap responsive
